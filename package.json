@@ -1,0 +1,26 @@
+{
+  "name": "api-clone-mercado-libre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeRangelCode/api-clone-mercado-libre.git"
+  },
+  "author": "Jorge Rangel Jimenez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeorgeRangelCode/api-clone-mercado-libre/issues"
+  },
+  "homepage": "https://github.com/GeorgeRangelCode/api-clone-mercado-libre#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
