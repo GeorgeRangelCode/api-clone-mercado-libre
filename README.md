@@ -15,11 +15,11 @@ Los siguientes endpoints permiten consultar.
 
 ## Obtener listado de articulos
 
-`Obtener listado de articulos por una busqueda` [https://api-clone-mercado-libre.vercel.app/api/items?q=bicicleta](#https://api-clone-mercado-libre.vercel.app/api/items?q=bicicleta)
+`Obtener listado de articulos por una busqueda` [https://api-clone-mercado-libre.vercel.app/api/items?q=bicicleta](https://api-clone-mercado-libre.vercel.app/api/items?q=bicicleta).
 
 ## Obtener articulo por Id
 
-`Obtener articulo por Id` [https://api-clone-mercado-libre.vercel.app/api/items/MLA624303034](#https://api-clone-mercado-libre.vercel.app/api/items/MLA624303034)
+`Obtener articulo por Id` [https://api-clone-mercado-libre.vercel.app/api/items/MLA624303034](https://api-clone-mercado-libre.vercel.app/api/items/MLA624303034).
 
 ## Licencia
 
