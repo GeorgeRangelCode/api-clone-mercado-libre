@@ -29,6 +29,7 @@ const getItems = (query) => {
         },
         picture: item.thumbnail,
         condition: item.condition,
+        address: item.address,
         free_shipping: item.shipping.free_shipping,
       };
     });
